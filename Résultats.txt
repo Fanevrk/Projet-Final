@@ -1,0 +1,72 @@
+L'astre Terre commence aux coordonnées 147000000000.0,0 et possède une vitesse de 29780 
+Somme 1 = 6.907422160799645e+22, Somme 2 =0
+L'astre aura effectué un tour après 29645209.44000565 secondes.
+Les coordonnées maximales et minimales de cet astre sont :Xmax=(147000007309.2722,),(-56316527.215270236,)
+Xmin=(-141990785457.69342,),(-61571441.75753039,)
+Ymax=(2491191038.3803864,),(144427506282.70084,)
+Ymin=(2526253977.797704,),(-144519884356.33557,)
+
+NOUVELLE ITÉRATION 
+L'astre 20% Terre commence aux coordonnées 147000000000.0,0 et possède une vitesse de 8492 
+Somme 1 = 1.969705473120076e+22, Somme 2 =0
+L'astre aura effectué un tour après 0 secondes.
+Les coordonnées maximales et minimales de cet astre sont :Xmax=(147000000000.0,),(0,)
+Xmin=(-6121833997.682041,),(52227735.26783025,)
+Ymax=(70458534602.0444,),(29980813151.562477,)
+Ymin=(71211677977.94893,),(-30324093406.029762,)
+
+NOUVELLE ITÉRATION 
+L'astre 90% Terre commence aux coordonnées 147000000000.0,0 et possède une vitesse de 40000 
+Somme 1 = 2.540159999999927e+24, Somme 2 =0
+L'astre aura effectué un tour après 275616000.0 secondes.
+Les coordonnées maximales et minimales de cet astre sont :Xmax=(147005553569.3686,),(-1718271004.7088752,)
+Xmin=(-1148144576697.2263,),(-13241008255.284147,)
+Ymax=(-491217440496.2642,),(403406262820.43787,)
+Ymin=(-509484264489.6717,),(-418480727524.7616,)
+
+NOUVELLE ITÉRATION 
+L'astre Jupiter commence aux coordonnées 740000000000.0,0 et possède une vitesse de 13058.5 
+Somme 1 = 1.6698165119999954e+24, Somme 2 =0
+L'astre aura effectué un tour après 319818240.0 secondes.
+Les coordonnées maximales et minimales de cet astre sont :Xmax=(740000034108.5824,),(-173949012.1979769,)
+Xmin=(-671095002160.3611,),(-311268440.37631845,)
+Ymax=(34614710240.035065,),(704490708096.6609,)
+Ymin=(34387944092.69315,),(-704921040082.2904,)
+
+NOUVELLE ITÉRATION 
+L'astre 90% Jupiter commence aux coordonnées 740000000000.0,0 et possède une vitesse de 17935.6 
+Somme 1 = 2.866826303999886e+25, Somme 2 =0
+L'astre aura effectué un tour après 3680208000.0 secondes.
+Les coordonnées maximales et minimales de cet astre sont :Xmax=(740000842546.5288,),(-7408678688.616609,)
+Xmin=(-6456978805668.123,),(-33962383424.58573,)
+Ymax=(-2833907417240.848,),(2167224570969.799,)
+Ymin=(-2884296523945.0874,),(-2204792906075.3774,)
+
+NOUVELLE ITÉRATION 
+L'astre 20% Jupiter commence aux coordonnées 740000000000.0,0 et possède une vitesse de 4000 
+Somme 1 = 2.557440000000081e+23, Somme 2 =0
+L'astre aura effectué un tour après 0 secondes.
+Les coordonnées maximales et minimales de cet astre sont :Xmax=(740000000000.0,),(0,)
+Xmin=(-34566163068.3202,),(-472702750.5420637,)
+Ymax=(352539913352.37354,),(159910070810.01776,)
+Ymin=(353008550306.20483,),(-160038266033.56323,)
+
+NOUVELLE ITÉRATION 
+L'astre 100% VLib commence aux coordonnées 147000000000.0,0 et possède une vitesse de 45000 
+Somme 1 = 0, Somme 2 =0
+L'astre aura effectué un tour après 0 secondes.
+Les coordonnées maximales et minimales de cet astre sont :Xmax=(147000000000.0,),(0,)
+Xmin=(-413117892500.2105,),(735193748637.8434,)
+Ymax=(-413117892500.2105,),(735193748637.8434,)
+Ymin=(147000000000.0,),(0,)
+
+NOUVELLE ITÉRATION 
+L'astre 0% Terre commence aux coordonnées 147000000000.0,0 et possède une vitesse de 0 
+Somme 1 = 0, Somme 2 =0
+L'astre aura effectué un tour après 0 secondes.
+Les coordonnées maximales et minimales de cet astre sont :Xmax=(861171228587398.6,),(0.0,)
+Xmin=(-111808870.91347575,),(0.0,)
+Ymax=(147000000000.0,),(0,)
+Ymin=(147000000000.0,),(0,)
+
+NOUVELLE ITÉRATION 
